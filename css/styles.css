@@ -1502,11 +1502,11 @@ li .fa {
     ==============
 */
 .mh-home .mh-header-info {
-  padding-top: 100px;
+  padding-top: 40px;
 }
 
 .mh-home .mh-header-info .mh-promo {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .mh-home .mh-header-info .mh-promo span {
@@ -1523,7 +1523,7 @@ li .fa {
 }
 
 .mh-home .mh-header-info h2 {
-  font-size: 60px;
+  font-size: 55px;
   font-weight: 600;
   line-height: 65px;
   margin-top: 10px;
@@ -1531,7 +1531,7 @@ li .fa {
 }
 
 .mh-home .mh-header-info h4 {
-  font-size: 26px;
+  font-size: 22px;
   line-height: 34px;
   margin-bottom: 30px;
 }
@@ -1757,14 +1757,15 @@ li .fa {
 
 .candidatos .parcial .info {
   position: relative;
+
 }
 
 .candidatos .parcial .info .nome {
   position: absolute;
   top: 0;
   left: 0;
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 14px;
+  font-weight: 500;
   opacity: 0.9;
 }
 
@@ -1788,6 +1789,7 @@ li .fa {
   margin: 30px 0 2px;
   border-radius: 10px;
   background: rgba(0, 0, 0, 0.5);
+  
 }
 
 .candidatos .parcial .percentagem {
@@ -1803,6 +1805,7 @@ li .fa {
   -webkit-transition: 3s all;
   -webkit-animation-duration: 3s;
   -webkit-animation-name: animationProgress;
+  
 }
 
 .candidatos .parcial .partidas {
@@ -2458,7 +2461,7 @@ li .fa {
 }
 
 .mh-copyright {
-  margin-top: 60px;
+  margin-top: 20px;
 }
 
 /*
@@ -3390,6 +3393,7 @@ li .fa {
 .mh-service .mh-service-item {
   padding: 20px;
   border-radius: 4px;
+  margin-bottom: 20px;
 }
 
 .mh-service .mh-service-item .fa {
